@@ -1,2 +1,2 @@
 # laypageTemplateUtil.js
-整合laypage和arttemplate，用于根据模板来分页
+整合laypage和arttemplate，用于通过模板处理数据并分页
